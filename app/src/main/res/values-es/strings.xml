@@ -1,0 +1,51 @@
+<resources>
+    <string name="navigation_drawer_open">Abrir navigation drawer.</string>
+    <string name="navigation_drawer_close">Cerrar navigation drawer.</string>
+
+    <string name="action_accept">aceptar</string>
+    <string name="action_discard">descartar</string>
+    <string name="action_new">nuevo</string>
+    <string name="action_next">siguiente</string>
+    <string name="address">dirección</string>
+    <string name="code">código</string>
+    <string name="create_customer_question">¿Le gustaría guardar este cliente?</string>
+    <string name="create_product_question">¿Le gustaría guardar este producto?</string>
+    <string name="create_order_question">¿Le gustaría guardar este pedido?</string>
+    <string name="customer">cliente</string>
+    <string name="customers">clientes</string>
+    <string name="date">fecha</string>
+    <string name="delete_customer_question">¿Quiere eliminar el cliente (%1$d)?</string>
+    <string name="delete_product_question">¿Quiere eliminar el producto (%1$d)?</string>
+    <string name="delete_order_question">¿Quiere eliminar el pedido (%1$d)?</string>
+    <string name="description">descripción</string>
+    <string name="error_empty">Por favor, rellene este campo.</string>
+    <string name="error_quantity">Por favor, introduzca una cantidad.</string>
+    <string name="impossible_delete_customer">
+        Imposible eliminar el cliente (%1$d). Existe algún pedido con este cliente.
+    </string>
+    <string name="impossible_delete_product">
+        Imposible eliminar el producto (%1$d). Existe algún pedido con este producto.
+    </string>
+    <string name="item_list_view_description">Acceder al formulario.</string>
+    <string name="name">nombre</string>
+    <string name="no_customers">No existen clientes.</string>
+    <string name="no_products">No existen productos.</string>
+    <string name="order">pedido</string>
+    <string name="orders">pedidos</string>
+    <string name="price">precio</string>
+    <string name="product">producto</string>
+    <string name="products">productos</string>
+    <string name="quantity">cantidad</string>
+    <string name="success_customer_deleted">Cliente (%1$d) eliminado satisfactoriamente</string>
+    <string name="success_customer_created">Cliente creado satisfactoriamente</string>
+    <string name="success_customer_updated">Cliente (%1$d) actualizado satisfactoriamente</string>
+    <string name="success_product_deleted">Producto (%1$d) eliminado satisfactoriamente</string>
+    <string name="success_product_created">Producto creado satisfactoriamente</string>
+    <string name="success_product_updated">Producto (%1$d) actualizado satisfactoriamente</string>
+    <string name="success_order_deleted">Pedido (%1$d) eliminado satisfactoriamente</string>
+    <string name="success_order_created">Pedido creado satisfactoriamente</string>
+    <string name="success_order_updated">Pedido (%1$d) actualizado satisfactoriamente</string>
+    <string name="update_customer_question">¿Le gustaría actualizar el cliente (%1$d)?</string>
+    <string name="update_product_question">¿Le gustaría actualizar el producto (%1$d)?</string>
+    <string name="update_order_question">¿Le gustaría actualizar el pedido (%1$d)?</string>
+</resources>

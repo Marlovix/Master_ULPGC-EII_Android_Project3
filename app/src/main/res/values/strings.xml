@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name" translatable="false">Práctica3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_accept">accept</string>
+    <string name="action_discard">discard</string>
+    <string name="action_new">new</string>
+    <string name="action_next">next</string>
+    <string name="address">address</string>
+    <string name="code">code</string>
+    <string name="create_customer_question">Would you like to store this customer?</string>
+    <string name="create_product_question">Would you like to store this product?</string>
+    <string name="create_order_question">Would you like to store this order?</string>
+    <string name="customer">customer</string>
+    <string name="customers">customers</string>
+    <string name="date">date</string>
+    <string name="delete_customer_question">Are you sure about delete customer (%1$d)?</string>
+    <string name="delete_product_question">Are you sure about delete product (%1$d)?</string>
+    <string name="delete_order_question">Are you sure about delete order (%1$d)?</string>
+    <string name="description">description</string>
+    <string name="error_empty">Please, fill out this field.</string>
+    <string name="error_quantity">Please, fill out the quantity.</string>
+    <string name="impossible_delete_customer">
+        Impossible delete customer (%1$d). There are some order with this customer.
+    </string>
+    <string name="impossible_delete_product">
+        Impossible delete product (%1$d). There are some order with this product.
+    </string>
+    <string name="item_list_view_description">Access to the form</string>
+    <string name="name">name</string>
+    <string name="no_customers">There are no customers</string>
+    <string name="no_products">There are no products</string>
+    <string name="order">order</string>
+    <string name="orders">orders</string>
+    <string name="price">price</string>
+    <string name="product">product</string>
+    <string name="products">products</string>
+    <string name="quantity">quantity</string>
+    <string name="success_customer_deleted">Customer (%1$d) deleted successfully</string>
+    <string name="success_customer_created">Customer created successfully</string>
+    <string name="success_customer_updated">Customer (%1$d) updated successfully</string>
+    <string name="success_product_deleted">Product (%1$d) deleted successfully</string>
+    <string name="success_product_created">Product created successfully</string>
+    <string name="success_product_updated">Product (%1$d) updated successfully</string>
+    <string name="success_order_deleted">Order (%1$d) deleted successfully</string>
+    <string name="success_order_created">Order created successfully</string>
+    <string name="success_order_updated">Order (%1$d) updated successfully</string>
+    <string name="update_customer_question">Would you like to update customer (%1$d)?</string>
+    <string name="update_product_question">Would you like to update product (%1$d)?</string>
+    <string name="update_order_question">Would you like to update order (%1$d)?</string>
+</resources>
